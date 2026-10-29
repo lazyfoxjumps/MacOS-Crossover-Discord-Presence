@@ -21,7 +21,7 @@ It also works with Whisky, Sikarugir, Wineskin, Kegworks and plain Wine.
 
 ## ⬇️ Installation
 
-1. Download **`MacOS-Crossover-Discord-Presence-0.1-beta.zip`** and unzip it.
+1. Download **[`MacOS-Crossover-Discord-Presence-0.1-beta.zip`](https://github.com/lazyfoxjumps/MacOS-Crossover-Discord-Presence/releases/download/v0.1-beta/MacOS-Crossover-Discord-Presence-0.1-beta.zip)** and unzip it. (Or grab it from the [Releases page](https://github.com/lazyfoxjumps/MacOS-Crossover-Discord-Presence/releases).)
 2. Double-click **`Install.command`**.
 3. Launch a game in CrossOver and check your Discord profile. 🎉
 
