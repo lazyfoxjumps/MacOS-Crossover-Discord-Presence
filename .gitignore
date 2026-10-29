@@ -1,0 +1,12 @@
+# Packaged release zips (produced by scripts/package.sh)
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local fallback app ID, if you don't want it in the repo
+config.json
+
+# macOS
+.DS_Store
